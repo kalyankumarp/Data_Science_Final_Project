@@ -1,0 +1,9 @@
+['StateId', 'CensusId', 'State', 'County', 'TotalPop', 'Men', 'Hispanic',
+       'White', 'Black', 'Native', 'Asian', 'Pacific',
+       'Citizen Voting Age Pop', 'Median Household Income', 'IncomePerCap',
+       'Poverty', 'ChildPoverty', 'Professional', 'Service', 'Office',
+       'Construction', 'Production', 'Drive', 'Carpool', 'Transit', 'Walk',
+       'OtherTransp', 'WorkAtHome', 'Mean Commute Time', 'TC', 'TM',
+       'MIPC', 'MP', 'IP', 'MCP', 'PCP', 'ICP', 'MHIP',
+       'National Unemployment Rate for 2014',
+       'State Unemployment rate for 2014', 'Unemployment', 'Class']
