@@ -1,9 +1,38 @@
-['StateId', 'CensusId', 'State', 'County', 'TotalPop', 'Men', 'Hispanic',
-       'White', 'Black', 'Native', 'Asian', 'Pacific',
-       'Citizen Voting Age Pop', 'Median Household Income', 'IncomePerCap',
-       'Poverty', 'ChildPoverty', 'Professional', 'Service', 'Office',
-       'Construction', 'Production', 'Drive', 'Carpool', 'Transit', 'Walk',
-       'OtherTransp', 'WorkAtHome', 'Mean Commute Time', 'TC', 'TM',
-       'MIPC', 'MP', 'IP', 'MCP', 'PCP', 'ICP', 'MHIP',
-       'National Unemployment Rate for 2014',
-       'State Unemployment rate for 2014', 'Unemployment', 'Class']
+['StateId', 'CensusId', 'State', 'County', 'TotalPop',
+       'Percent Population with age between 16 and 44',
+       'Percent Population with age between 45 and 74',
+       'Percent Population with age between 75 and over', 'Men', 'Women',
+       'Hispanic', 'White', 'Black', 'Native', 'Asian', 'Pacific',
+       'Citizen Voting Age Pop', 'Median Household Income', 'IncomeErr',
+       'IncomePerCap', 'IncomePerCapErr', 'Poverty', 'ChildPoverty',
+       'Professional', 'Service', 'Office', 'Construction', 'Production',
+       'Drive', 'Carpool', 'Transit', 'Walk', 'OtherTransp', 'WorkAtHome',
+       'Mean Commute Time', 'National Unemployment Rate for 2013',
+       'State Unemployment rate for 2013', 'County Unemployment Rate for 2013',
+       'Unemployment', 'Class']
+
+
+
+'TotalPop', 'Percent Population with age between 16 and 44',
+       'Percent Population with age between 45 and 74',
+       'Percent Population with age between 75 and over', 'Hispanic', 'White',
+       'Black', 'Native', 'Asian', 'Pacific', 'Median Household Income',
+       'Poverty', 'Service', 'Office', 'Construction', 'Production', 'Drive',
+       'Carpool', 'Transit', 'Walk', 'WorkAtHome', 'Mean Commute Time',
+       'State Unemployment rate for 2013',
+       'County Unemployment Rate for 2013'
+
+------Regression
+'Poverty', 'White', "Median Household Income", 'Black', 'Service', 'WorkAtHome', "Hispanic", 'Mean Commute Time', 
+"Percent Population with age between 75 and over", "Percent Population with age between 16 and 44", 
+
+'County Unemployment Rate for 2013', 'State Unemployment rate for 2013',
+
+
+------Classification
+
+TotalPop', 'Men, White', 'Black','Citizen Voting Age Pop', 'Median Household Income', 
+#               'IncomePerCap', 'Poverty', 'ChildPoverty', 'County Unemployment Rate for 2013' 
+
+
+ 
